@@ -3,8 +3,8 @@
 	enunciadoResposta:	.asciiz "Resposta: "
 	respostaResto:		.asciiz "\nResto: "
 	erroEntrada:		.asciiz "Entrada inválida."
-	teste:			.asciiz "Primo\n"
-	pulaLinha:		.asciiz "\n"
+	teste:				.asciiz "Primo\n"
+	pulaLinha:			.asciiz "\n"
 .text
 
 .globl main
